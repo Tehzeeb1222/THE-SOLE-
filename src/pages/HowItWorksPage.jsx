@@ -85,7 +85,7 @@ export default function HowItWorksPage() {
 
           <div className="p-4 bg-[#FAF7F2] rounded-xl border border-[#E5DDD3]">
             <img
-              src="/assets/working.png"
+              src="./assets/working.png"
               alt="4-step process flow graphic"
               className="w-full max-h-[420px] object-contain mx-auto"
             />

@@ -30,7 +30,7 @@ export default function SolutionSection() {
           <div className="lg:col-span-7 relative">
             <div className="bg-[#FFFFFF] p-4 sm:p-6 rounded-2xl border border-[#D9CEC1] shadow-xl relative overflow-hidden group">
               <img
-                src="/assets/media_1791112650849.jpg"
+                src="./assets/media_1791112650849.jpg"
                 alt="Close-up cross section of formal loafer with The Sole hydrophobic sock repelling water droplets"
                 className="w-full h-auto object-cover rounded-xl"
               />

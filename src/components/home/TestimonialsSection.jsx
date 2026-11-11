@@ -95,7 +95,7 @@ export default function TestimonialsSection() {
           <div className="lg:col-span-5">
             <div className="bg-[#FFFFFF] p-4 rounded-2xl border border-[#D9CEC1] shadow-xl overflow-hidden">
               <img
-                src="/assets/customer .png"
+                src="./assets/customer .png"
                 alt="Woman with umbrella walking in rain surrounded by customer testimonial callouts"
                 className="w-full h-auto object-cover rounded-xl"
               />

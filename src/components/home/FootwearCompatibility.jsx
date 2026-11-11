@@ -50,7 +50,7 @@ export default function FootwearCompatibility() {
         <div className="bg-[#FFFFFF] border border-[#D9CEC1] rounded-2xl p-6 sm:p-8 shadow-xl">
           <div className="mb-8 overflow-hidden rounded-xl bg-[#FAF7F2] p-4 border border-[#E5DDD3]">
             <img
-              src="/assets/media_1791112644453.jpg"
+              src="./assets/media_1791112644453.jpg"
               alt="Lineup of four formal shoes: Loafer, Monk Strap, Oxford, Chelsea Boot in the rain with The Sole socks"
               className="w-full max-h-[380px] object-contain mx-auto"
             />

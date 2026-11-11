@@ -31,7 +31,7 @@ export default function AboutPage() {
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <img
-              src="/assets/The Sole  main .png"
+              src="./assets/The Sole  main .png"
               alt="The Sole brand lifestyle"
               className="w-full h-auto object-cover rounded-2xl border border-[#E5DDD3]"
             />

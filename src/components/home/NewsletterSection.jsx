@@ -33,7 +33,7 @@ export default function NewsletterSection() {
             <div className="lg:col-span-5 relative text-center">
               <div className="relative mx-auto max-w-sm">
                 <img
-                  src="/assets/sign in page png.png"
+                  src="./assets/sign in page png.png"
                   alt="Sophisticated woman in long grey trenchcoat with black umbrella walking in rain"
                   className="w-full h-auto object-cover rounded-2xl border border-[#E5DDD3]"
                 />

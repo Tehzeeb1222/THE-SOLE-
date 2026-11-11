@@ -119,7 +119,7 @@ export default function HowItWorksSection() {
             
             <div className="lg:col-span-6">
               <img
-                src="/assets/working.png"
+                src="./assets/working.png"
                 alt="4-step visual flow showing sock preparation, water beading, walking in rain, and formal shoe compatibility"
                 className="w-full h-auto object-cover rounded-xl border border-[#E5DDD3]"
               />

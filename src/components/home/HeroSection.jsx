@@ -109,7 +109,7 @@ export default function HeroSection() {
               {/* Outer Editorial Frame */}
               <div className="relative bg-[#FFFFFF] p-3 sm:p-4 rounded-2xl shadow-xl border border-[#E5DDD3] overflow-hidden group">
                 <img
-                  src="/assets/The Sole  main .png"
+                  src="./assets/The Sole  main .png"
                   alt="Sophisticated woman in trenchcoat with umbrella walking through rain in The Sole hydrophobic socks and formal leather shoes"
                   className="w-full h-auto object-cover rounded-xl transition-transform duration-700 group-hover:scale-[1.01]"
                 />

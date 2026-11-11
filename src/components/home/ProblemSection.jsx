@@ -66,7 +66,7 @@ export default function ProblemSection() {
           <div className="lg:col-span-5">
             <div className="bg-[#FFFFFF] p-4 rounded-2xl border border-[#E5DDD3] shadow-md relative overflow-hidden">
               <img
-                src="/assets/problem solution for sole.png"
+                src="./assets/problem solution for sole.png"
                 alt="Person caught in the rain with wet soggy footwear dilemma"
                 className="w-full h-auto object-cover rounded-xl"
               />
